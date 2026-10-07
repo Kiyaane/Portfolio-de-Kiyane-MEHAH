@@ -1,6 +1,3 @@
-# Portfolio de Kiyane MEHAH
-# Portfolio – Site web personnel
-
 ## Présentation
 
 Ce projet consiste à créer un site web personnel permettant de présenter mon parcours, mes compétences, mes projets et mes expériences professionnelles.
