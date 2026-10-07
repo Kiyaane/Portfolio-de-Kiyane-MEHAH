@@ -1,4 +1,4 @@
-## Présentation
+## Présentation du Portfolio de Kiyane MEHAH
 
 Ce projet consiste à créer un site web personnel permettant de présenter mon parcours, mes compétences, mes projets et mes expériences professionnelles.
 Le projet est réalisé dans le cadre de ma **3e année de BUT Sciences des données**.
